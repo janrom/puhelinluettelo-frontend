@@ -1,0 +1,11 @@
+.successNotification {
+  background-color: green;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.errorNotification {
+  background-color: red;
+  padding: 10px;
+  margin-bottom: 10px;
+}
