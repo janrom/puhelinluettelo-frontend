@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 // palvelimen juurihakemisto
-const baseUrl = 'http://localhost:3001/api/persons'
+const baseUrl = '/api/persons'
 
 // hakee kaikki kontaktit palvelimelta ja palauttaa datan (kontaktit)
 const getAll = () => {
